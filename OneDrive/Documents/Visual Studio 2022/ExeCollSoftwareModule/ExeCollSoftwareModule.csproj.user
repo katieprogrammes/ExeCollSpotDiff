@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Easy1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Easy2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Easy3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Easy4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Easy5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EasyEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hard1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hard2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hard3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hard4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hard5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HardEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medium1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medium2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medium3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medium4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medium5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MediumEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHard1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHard2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHard3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHard4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHard5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeryHardEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
